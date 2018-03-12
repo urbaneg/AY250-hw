@@ -1,0 +1,29 @@
+Your score: 16/17
+
+Breakdown & Comments: 
+
+----------------------------------------
+Problem 1: 5/5
+----------------------------------------
+1/1: plot with caption
+4/4: analysis
+
+Very nice explanation of the plot; if you don't 
+do some kind of outreach, you should.
+
+----------------------------------------
+Problem 2: 7/7
+----------------------------------------
+7/3: Recreated plot
+7/3: New dynamic interactions
+1/1: Analysis of changes
+
+----------------------------------------
+Problem 3: 4/5
+----------------------------------------
+4/5: Reproduced plot: title, twin_x, legend, limits, linestyles
+
+were looking for 2 different font families
+
+
+Graded by C. E. Harris
